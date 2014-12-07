@@ -1,0 +1,5 @@
+[package]
+
+name = "bowling_game"
+version = "0.0.1"
+authors = ["Timon Vonk <timonv@gmail.com>"]
